@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'Helvetica';
+  src: url('./Helvetica.ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+
 .hello {
   color: red;
+  background: url('./icon.jpg');
 }
